@@ -144,6 +144,7 @@
 	position: absolute;
 	top: 70px;
 	width: 100%;
+	height: 150px;
 	left: 30px;
 	z-index: 1000;
 }
